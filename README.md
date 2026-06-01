@@ -3,7 +3,8 @@
 A Machine Learning web application built with Streamlit for sentiment classification and batch text analytics.
 
 ---
-
+## 🚀 Live Demo
+🔗 [Click here to open the Streamlit app](https://sentiment-analysis-project-bpqsw5rnx2mfuedpqbmwxp.streamlit.app/)
 ## 📌 Project Overview
 
 This project uses Natural Language Processing (NLP) and Machine Learning to classify text into:
